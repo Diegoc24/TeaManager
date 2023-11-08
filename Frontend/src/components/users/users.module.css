@@ -1,0 +1,44 @@
+.user {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    height: 40px;
+    width: 25px;
+    display: inline;
+}
+
+.user img{
+    width: 25px;
+    border-radius: 100%;
+}
+.name{
+    position: relative;
+    display: inline;
+    bottom: 8px;
+    left: 12px;
+    color: black;
+}
+.user span{
+    text-align: center;
+}
+.user span svg{
+    position: relative;
+    left: 8px;
+    top: 5px;
+    cursor: pointer;
+}
+.initSession{
+    width: 110%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navLogin{
+    text-decoration: none;
+    color: white;
+}
+.navRegister{
+    text-decoration: none;
+    color: white;
+}

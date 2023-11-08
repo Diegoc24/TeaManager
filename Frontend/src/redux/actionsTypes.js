@@ -1,0 +1,4 @@
+export const POST_REGISTER = "POST_REGISTER_USER"
+export const POST_LOGIN = "POST_LOGIN"
+export const VERIFY_SESSION = "VERIFY_SESSION"
+export const CLEAR_ERROR = "CLEAR_ERROR"

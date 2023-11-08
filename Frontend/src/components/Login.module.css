@@ -1,0 +1,17 @@
+
+.container form{
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 50px;
+}
+.container form input{
+    width: 100%;
+    margin-bottom: 20px;
+   
+}
+.container button{
+    margin-bottom: 20px;
+}
+.buttonNav{
+    margin: 20px;
+}
